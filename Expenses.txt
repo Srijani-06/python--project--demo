@@ -1,0 +1,30 @@
+250,Food,Lunch at college canteen,01-07-2026
+300,Transport,Metro card recharge,01-07-2026
+799,Shopping,Bought a T-shirt,02-07-2026
+350,Entertainment,Movie ticket,02-07-2026
+180,Food,Coffee with friends,03-07-2026
+1450,Bills,Electricity bill payment,03-07-2026
+220,Transport,Cab to railway station,04-07-2026
+560,Health,Bought medicines,04-07-2026
+1200,Education,Python programming course,05-07-2026
+450,Food,Dinner at restaurant,05-07-2026
+1350,Shopping,Monthly groceries,06-07-2026
+649,Entertainment,Netflix subscription,06-07-2026
+899,Bills,Internet bill,07-07-2026
+120,Food,Breakfast,07-07-2026
+60,Transport,Bus ticket,08-07-2026
+250,Personal Care,Haircut,08-07-2026
+2499,Shopping,Running shoes,09-07-2026
+150,Food,Ice cream,09-07-2026
+700,Health,Doctor consultation,10-07-2026
+500,Entertainment,Bowling with friends,10-07-2026
+299,Bills,Mobile recharge,11-07-2026
+90,Food,Evening snacks,11-07-2026
+850,Education,Bought study books,12-07-2026
+1200,Transport,Bike fuel,12-07-2026
+1499,Shopping,College backpack,13-07-2026
+650,Food,Pizza party,13-07-2026
+119,Entertainment,Spotify Premium,14-07-2026
+350,Bills,Water bill,14-07-2026
+980,Food,Weekly groceries,15-07-2026
+240,Miscellaneous,Bought stationery,15-07-2026600.0,gaming,gaming with friends,2026-07-16
